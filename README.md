@@ -17,3 +17,5 @@ Print the sum of  plus your double variable to a scale of one decimal place on a
 Concatenate  with the string you read as input and print the result on a new line. <br/>
 For more detailed inputs and outputs, go through this link <br/>
 https://www.hackerrank.com/challenges/30-data-types/problem
+
+# Day 2
