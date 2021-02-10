@@ -19,3 +19,6 @@ For more detailed inputs and outputs, go through this link <br/>
 https://www.hackerrank.com/challenges/30-data-types/problem
 
 # Day 2
+Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer. <br/>
+For more detailed inputs and outputs, go through this link <br/>
+https://www.hackerrank.com/challenges/30-operators/problem
