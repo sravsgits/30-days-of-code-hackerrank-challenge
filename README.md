@@ -22,3 +22,14 @@ https://www.hackerrank.com/challenges/30-data-types/problem
 Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer. <br/>
 For more detailed inputs and outputs, go through this link <br/>
 https://www.hackerrank.com/challenges/30-operators/problem
+
+# Day 3
+Given an integer, n , perform the following conditional actions: <br/>
+
+If n is odd, print Weird <br/>
+If n is even and in the inclusive range of 2 to 5, print Not Weird <br/>
+If n is even and in the inclusive range of 6 to 20, print Weird <br/>
+If n is even and greater than 20, print Not Weird <br/>
+For more detailed inputs and outputs, go through this link <br/>
+https://www.hackerrank.com/challenges/30-conditional-statements/problem
+
