@@ -33,3 +33,8 @@ If n is even and greater than 20, print Not Weird <br/>
 For more detailed inputs and outputs, go through this link <br/>
 https://www.hackerrank.com/challenges/30-conditional-statements/problem
 
+# Day 4
+Write a Person class with an instance variable, age, and a constructor that takes an integer, initialAge, as a parameter. The constructor must assign initialAge  to age  after confirming the argument passed as initialAge is not negative; if a negative argument is passed as initialage , the constructor should set to and print Age is not valid, setting age to 0.
+For detailed inputs and outputs, go through this link <br/>
+https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+
