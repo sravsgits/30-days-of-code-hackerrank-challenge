@@ -42,3 +42,8 @@ https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 Given an integer,n , print its first 10 multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
 For detailed inputs and outputs, go through this link <br/>
 https://www.hackerrank.com/challenges/30-loops/problem
+
+# Day 6
+Given a string, S , of length N  that is indexed from 0 to N-1 , print its even-indexed and odd-indexed characters as 2 space-separated strings on a single line (see the Sample below for more detail). <br/>
+For detailed inputs and outputs, go through this link <br/>
+https://www.hackerrank.com/challenges/30-review-loop/problem
